@@ -1,0 +1,1250 @@
+﻿add ycdb02669
+.desc Privod z transformatora 7BMT55-QF01 Vypnuty
+7bmt55gs001_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02670
+.desc Privod z transformatora 7BMT55-QF01 Vypnuty spustou
+7bmt55gs001_vypsp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02671
+.desc Privod z transformatora 7BMT55-QF01 Zapnuty
+7bmt55gs001_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02672
+.desc Vyvod na transformator 7BMT55-FDC Vypadok isticov 24V DC v poli
+7bmt55gt001_24v
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02673
+.desc Vyvod na transformator 7BMT55-F01 LIFE kontakt ochrany
+7bmt55gt001_lko
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02674
+.desc Vyvod na transformator 7BMT55-Q1 Odpojovac vypnuty
+7bmt55gt001_ov
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02675
+.desc Vyvod na transformator 7BMT55-Q1 Odpojovac zapnuty
+7bmt55gt001_oz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02676
+.desc Vyvod na transformator 7BMT55-F01 Posobenie el. ochran
+7bmt55gt001_peo
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02677
+.desc Vyvod na transformator 7BMT55-QM1 Pruzina stradaca nastradana
+7bmt55gt001_psn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02678
+.desc Vyvod na transformator 7BMT55-QM1 Pruzina stradaca vybita
+7bmt55gt001_psv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02679
+.desc Vyvod na transformator 7BMT55-FPTN Vypadok isticov PTN v poli
+7bmt55gt001_ptn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02680
+.desc Vyvod na transformator 7BMT55-QM1 Tlak plynu SF6 nizky
+7bmt55gt001_sf6
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02681
+.desc Vyvod na transformator 7BMT55-QM1 Vypnuty
+7bmt55gt001_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02682
+.desc Vyvod na transformator 7BMT55-QM1 Zapnuty
+7bmt55gt001_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02683
+.desc Vyvod na transformator 7BMT55-QE1 Zemne noze vyvodu vypnute
+7bmt55gt001_znvv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02684
+.desc Vyvod na transformator 7BMT55-QE1 Zemne noze vyvodu zapnute
+7bmt55gt001_znvz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02685
+.desc Privod z transformatora 7BMT56-QF01 Vypnuty
+7bmt56gs001_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02686
+.desc Privod z transformatora 7BMT56-QF01 Vypnuty spustou
+7bmt56gs001_vypsp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02687
+.desc Privod z transformatora 7BMT56-QF01 Zapnuty
+7bmt56gs001_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02688
+.desc Vyvod na transformator 7BMT56-FDC Vypadok isticov 24V DC v poli
+7bmt56gt001_24v
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02689
+.desc Vyvod na transformator 7BMT56-F01 LIFE kontakt ochrany
+7bmt56gt001_lko
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02690
+.desc Vyvod na transformator 7BMT56-Q1 Odpojovac vypnuty
+7bmt56gt001_ov
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02691
+.desc Vyvod na transformator 7BMT56-Q1 Odpojovac zapnuty
+7bmt56gt001_oz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02692
+.desc Vyvod na transformator 7BMT56-F01 Posobenie el. ochran
+7bmt56gt001_peo
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02693
+.desc Vyvod na transformator 7BMT56-QM1 Pruzina stradaca nastradana
+7bmt56gt001_psn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02694
+.desc Vyvod na transformator 7BMT56-QM1 Pruzina stradaca vybita
+7bmt56gt001_psv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02695
+.desc Vyvod na transformator 7BMT56-FPTN Vypadok isticov PTN v poli
+7bmt56gt001_ptn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02696
+.desc Vyvod na transformator 7BMT56-QM1 Tlak plynu SF6 nizky
+7bmt56gt001_sf6
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02697
+.desc Vyvod na transformator 7BMT56-QM1 Vypnuty
+7bmt56gt001_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02698
+.desc Vyvod na transformator 7BMT56-QM1 Zapnuty
+7bmt56gt001_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02699
+.desc Vyvod na transformator 7BMT56-QE1 Zemne noze vyvodu vypnute
+7bmt56gt001_znvv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02700
+.desc Vyvod na transformator 7BMT56-QE1 Zemne noze vyvodu zapnute
+7bmt56gt001_znvz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02701
+.desc Privod z transformatora 7BMT90-QF01 Vypnuty
+7bmt90gs001_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02702
+.desc Privod z transformatora 7BMT90-QF01 Vypnuty spustou
+7bmt90gs001_vypsp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02703
+.desc Privod z transformatora 7BMT90-QF01 Zapnuty
+7bmt90gs001_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02704
+.desc Vyvod na transformator 7BMT90-FDC Vypadok isticov 24V DC v poli
+7bmt90gt001_24v
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02705
+.desc Vyvod na transformator 7BMT90-F01 LIFE kontakt ochrany
+7bmt90gt001_lko
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02706
+.desc Vyvod na transformator 7BMT90-Q1 Odpojovac vypnuty
+7bmt90gt001_ov
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02707
+.desc Vyvod na transformator 7BMT90-Q1 Odpojovac zapnuty
+7bmt90gt001_oz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02708
+.desc Vyvod na transformator 7BMT90-F01 Posobenie el. ochran
+7bmt90gt001_peo
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02709
+.desc Vyvod na transformator 7BMT90-QM1 Pruzina stradaca nastradana
+7bmt90gt001_psn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02710
+.desc Vyvod na transformator 7BMT90-QM1 Pruzina stradaca vybita
+7bmt90gt001_psv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02711
+.desc Vyvod na transformator 7BMT90-FPTN Vypadok isticov PTN v poli
+7bmt90gt001_ptn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02712
+.desc Vyvod na transformator 7BMT90-QM1 Tlak plynu SF6 nizky
+7bmt90gt001_sf6
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02713
+.desc Vyvod na transformator 7BMT90-FKA24  Strata ovladacieho napatia
+7bmt90gt001_son
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02714
+.desc Vyvod na transformator 7BMT90-QM1 Vypnuty
+7bmt90gt001_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02715
+.desc Vyvod na transformator 7BMT90-QM1 Zapnuty
+7bmt90gt001_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02716
+.desc Vyvod na transformator 7BMT90-QE1 Zemne noze vyvodu vypnute
+7bmt90gt001_znvv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02717
+.desc Vyvod na transformator 7BMT90-QE1 Zemne noze vyvodu zapnute
+7bmt90gt001_znvz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02826
+.desc Vyvod na cerpadlo 7JNR10AP001-FDC Vypadok isticov 24V DC v poli
+7jnr10ap001_24v
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02827
+.desc Vyvod na cerpadlo 7JNR10AP001-F01 LIFE kontakt ochrany
+7jnr10ap001_lko
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02828
+.desc Vyvod na cerpadlo 7JNR10AP001-Q1 Odpojovac vypnuty
+7jnr10ap001_ov
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02829
+.desc Vyvod na cerpadlo 7JNR10AP001-Q1 Odpojovac zapnuty
+7jnr10ap001_oz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02830
+.desc Vyvod na cerpadlo 7JNR10AP001-F01 Posobenie el. ochran
+7jnr10ap001_peo
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02831
+.desc Vyvod na cerpadlo 7JNR10AP001-QM1 Pruzina stradaca nastradana
+7jnr10ap001_psn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02832
+.desc Vyvod na cerpadlo 7JNR10AP001-QM1 Pruzina stradaca vybita
+7jnr10ap001_psv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02833
+.desc Vyvod na cerpadlo 7JNR10AP001-FPTN Vypadok isticov PTN v poli
+7jnr10ap001_ptn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02834
+.desc Vyvod na cerpadlo 7JNR10AP001-QM1 Tlak plynu SF6 nizky
+7jnr10ap001_sf6
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02835
+.desc Vyvod na cerpadlo 7JNR10AP001-QM1 Vypnuty
+7jnr10ap001_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02836
+.desc Vyvod na cerpadlo 7JNR10AP001-QM1 Zapnuty
+7jnr10ap001_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02837
+.desc Vyvod na cerpadlo 7JNR10AP001-QE1 Zemne noze vyvodu vypnute
+7jnr10ap001_znvv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02838
+.desc Vyvod na cerpadlo 7JNR10AP001-QE1 Zemne noze vyvodu zapnute
+7jnr10ap001_znvz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02839
+.desc Vyvod na cerpadlo 7JNR10AP002-FDC Vypadok isticov 24V DC v poli
+7jnr10ap002_24v
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02840
+.desc Vyvod na cerpadlo 7JNR10AP002-F01 LIFE kontakt ochrany
+7jnr10ap002_lko
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02841
+.desc Vyvod na cerpadlo 7JNR10AP002-Q1 Odpojovac vypnuty
+7jnr10ap002_ov
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02842
+.desc Vyvod na cerpadlo 7JNR10AP002-Q1 Odpojovac zapnuty
+7jnr10ap002_oz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02843
+.desc Vyvod na cerpadlo 7JNR10AP002-F01 Posobenie el. ochran
+7jnr10ap002_peo
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02844
+.desc Vyvod na cerpadlo 7JNR10AP002-QM1 Pruzina stradaca nastradana
+7jnr10ap002_psn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02845
+.desc Vyvod na cerpadlo 7JNR10AP002-QM1 Pruzina stradaca vybita
+7jnr10ap002_psv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02846
+.desc Vyvod na cerpadlo 7JNR10AP002-FPTN Vypadok isticov PTN v poli
+7jnr10ap002_ptn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02847
+.desc Vyvod na cerpadlo 7JNR10AP002-QM1 Tlak plynu SF6 nizky
+7jnr10ap002_sf6
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02848
+.desc Vyvod na cerpadlo 7JNR10AP002-QM1 Vypnuty
+7jnr10ap002_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02849
+.desc Vyvod na cerpadlo 7JNR10AP002-QM1 Zapnuty
+7jnr10ap002_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02850
+.desc Vyvod na cerpadlo 7JNR10AP002-QE1 Zemne noze vyvodu vypnute
+7jnr10ap002_znvv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02851
+.desc Vyvod na cerpadlo 7JNR10AP002-QE1 Zemne noze vyvodu zapnute
+7jnr10ap002_znvz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02797
+.desc Cerpadlo dodavky roztoku H3BO3 na SOV4-Porucha
+7jnr10ap003_porucha
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02798
+.desc Cerpadlo dodavky roztoku H3BO3 na SOV4-Vypnute
+7jnr10ap003_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02799
+.desc Cerpadlo dodavky roztoku H3BO3 na SOV4-Zapnute
+7jnr10ap003_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02921
+.desc DG SAM -Rezim DG OFF
+7xkz01_dgoff
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02922
+.desc DG SAM -Nominalne parametre
+7xkz01_nomparam
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02923
+.desc DG SAM -Porucha DG
+7xkz01_porucha
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02924
+.desc DG SAM -Rezim Prevadzka
+7xkz01_prevadzka
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02925
+.desc DG SAM -Rezim Test v ostrove
+7xkz01_test
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02926
+.desc DG SAM -Rezim Test do siete
+7xkz01_testsiet
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02927
+.desc DG SAM -DG bezi
+7xkz01_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02933
+.desc DG-start DG SAM z BD1
+7xkz01fe001
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02934
+.desc DG-start DG SAM z HRS
+7xkz01fe002
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02935
+.desc DG-start DG SAM z BD2
+7xkz01fe003
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02936
+.desc DG-start DG SAM z HRS2
+7xkz01fe004
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02937
+.desc DG-start DG SAM z PLC
+7xkz01fe005
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02938
+.desc DG-Stop DG SAM z PLC
+7xkz01fe006
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02939
+.desc DG-start DG SAM z 7BNH90
+7xkz01fe007
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02940
+.desc DG-Stop DG SAM z 7BNH90
+7xkz01fe008
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02852
+.desc Privod z dieselgeneratora 7XKZ01-FDC Vypadok isticov 24V DC v poli
+7xkz01gs001_24v
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02853
+.desc Privod z dieselgeneratora 7XKZ01-F01 LIFE kontakt ochrany
+7xkz01gs001_lko
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02854
+.desc Privod z dieselgeneratora 7XKZ01-Q1 Odpojovac vypnuty
+7xkz01gs001_ov
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02855
+.desc Privod z dieselgeneratora 7XKZ01-Q1 Odpojovac zapnuty
+7xkz01gs001_oz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02856
+.desc Privod z dieselgeneratora 7XKZ01-F01 Posobenie el. ochran
+7xkz01gs001_peo
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02857
+.desc Privod z dieselgeneratora 7XKZ01-QM1 Pruzina stradaca nastradana
+7xkz01gs001_psn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02858
+.desc Privod z dieselgeneratora 7XKZ01-QM1 Pruzina stradaca vybita
+7xkz01gs001_psv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02859
+.desc Privod z dieselgeneratora 7XKZ01-FPTN Vypadok isticov PTN v poli
+7xkz01gs001_ptn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02860
+.desc Privod z dieselgeneratora 7XKZ01-QM1 Tlak plynu SF6 nizky
+7xkz01gs001_sf6
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02861
+.desc Privod z dieselgeneratora 7XKZ01-QM1 Vypnuty
+7xkz01gs001_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02862
+.desc Privod z dieselgeneratora 7XKZ01-QM1 Zapnuty
+7xkz01gs001_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02863
+.desc Privod z dieselgeneratora 7XKZ01-QE1 Zemne noze vyvodu vypnute
+7xkz01gs001_znvv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02864
+.desc Privod z dieselgeneratora 7XKZ01-QE1 Zemne noze vyvodu zapnute
+7xkz01gs001_znvz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02942
+.desc Privod z mobilneho dieselgeneratora-QF02 Vypnuty
+7xkz03gs001_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02943
+.desc Privod z mobilneho dieselgeneratora-QF02 Vypnuty spustou
+7xkz03gs001_vypsp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02944
+.desc Privod z mobilneho dieselgeneratora-QF02 Zapnuty
+7xkz03gs001_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02776
+.desc Privod z mobilneho dieselgeneratora-QF02 Vypnuty
+7xkz03gs002_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02777
+.desc Privod z mobilneho dieselgeneratora-QF02 Vypnuty spustou
+7xkz03gs002_vypsp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb02778
+.desc Privod z mobilneho dieselgeneratora-QF02 Zapnuty
+7xkz03gs002_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10000
+.desc Privod z rozvadzaca 8BDH-FDC Vypadok isticov 24V DC v poli
+8bdh00gs001_24v
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10001
+.desc Privod z rozvadzaca 8BDH-F01 LIFE kontakt ochrany
+8bdh00gs001_lko
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10002
+.desc Privod z rozvadzaca 8BDH-Q1 Odpojovac vypnuty
+8bdh00gs001_ov
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10003
+.desc Privod z rozvadzaca 8BDH-Q1 Odpojovac zapnuty
+8bdh00gs001_oz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10004
+.desc Privod z rozvadzaca 8BDH-F01 Posobenie el. ochran
+8bdh00gs001_peo
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10005
+.desc Privod z rozvadzaca 8BDH-QM1 Pruzina stradaca nastradana
+8bdh00gs001_psn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10006
+.desc Privod z rozvadzaca 8BDH-QM1 Pruzina stradaca vybita
+8bdh00gs001_psv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10007
+.desc Privod z rozvadzaca 8BDH-FPTN Vypadok isticov PTN v poli
+8bdh00gs001_ptn
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10008
+.desc Privod z rozvadzaca 8BDH-QM1 Tlak plynu SF6 nizky
+8bdh00gs001_sf6
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10009
+.desc Privod z rozvadzaca 8BDH-QM1 Vypnuty
+8bdh00gs001_vyp
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10010
+.desc Privod z rozvadzaca 8BDH-QM1 Zapnuty
+8bdh00gs001_zap
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10011
+.desc Privod z rozvadzaca 8BDH-QE1 Zemne noze vyvodu vypnute
+8bdh00gs001_znvv
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
+add ycdb10012
+.desc Privod z rozvadzaca 8BDH-QE1 Zemne noze vyvodu zapnute
+8bdh00gs001_znvz
+data ref: IPR M30100 - SAM
+.units bool
+.type l*1
+.valu false
+.dim 
+.pred global23
+
